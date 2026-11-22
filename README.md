@@ -140,7 +140,7 @@ Both examples configure the text overlay with settings similar to:
 
 ```liquidsoap
 font_size = "50"
-font_x = "70"
+font_x = "72"
 font_y = "990"
 font_color = "white"
 ```
